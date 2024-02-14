@@ -21,6 +21,7 @@
   "window.dialogStyle": "custom",
   "window.title": "${appName} ${separator} ${rootName}",
   "window.titleBarStyle": "custom",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
   // === Editor ===
   "files.eol": "\n",
   "files.insertFinalNewline": true,
